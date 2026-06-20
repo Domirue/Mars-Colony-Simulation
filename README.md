@@ -4,6 +4,10 @@ A 3D Mars environment created in **C++**, **OpenGL**, and **FreeGLUT**.
 
 The project features a small interactive Mars colony with a procedurally generated terrain, a rover, a rocket, a landing capsule, animated UFO, alien character, particle-based geyser effects, and a textured skybox.
 
+<img width="1920" height="1017" alt="obraz" src="https://github.com/user-attachments/assets/10eec09b-a922-4ce4-aa41-83b8da41caf3" />
+
+
+
 ## Features
 
 * Procedural Mars terrain generation
